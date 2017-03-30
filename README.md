@@ -8,4 +8,7 @@ Asa_code1674
 *this was fun*
 **Woo Woo**
 
-[this is a link] 90
+[this is a link] (http://link.com)
+[alt text for an image](link to image.jpg)
+
+bit.ly/thinklaunchslack
