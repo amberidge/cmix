@@ -29,7 +29,11 @@
 * Making collaboration profitable for app/website users
 * Making an efficient User interface that covers the diversity of roles involved film production. Organized enough, not to scare users away.
 * Building a server Large enough to hold social media information for a city for of aspiring filmmakers.
+* Main issue would be getting publicity
 
+### Context
+* Chicago is an advertising city
+* There are already businesses and sites dedicated to finding talent (mostly for casting)
 
 ### Reframe
 How can I make an intuitive collaboration app that opens up the advertising market in Chicago toward independent Film makers?
@@ -46,3 +50,4 @@ How can I make an intuitive collaboration app that opens up the advertising mark
 ### Revenue Sources
 1. Premium membership benefits
 2. Advertising for local Chicago businesses.
+3. Charge Major production studios to access talent pool.
