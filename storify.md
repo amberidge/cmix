@@ -1,4 +1,4 @@
-#Storify
+# Storify
 
 ### Features
 1. Sign up
@@ -9,7 +9,7 @@
 6. Discuss
 7. Donate
 
-### User Story
+## User Story
 Film Creator
 1. As a film creative I want to sign up for this networking app so that I can obtain more job opportunities and visibility with in the film industry.
 2. As a film creative, I want to upload a reel so that I can recruit other creatives to work with me.
@@ -20,7 +20,7 @@ Film Creator
 7. As a film creative, i want to be able to use donations to finance my film project.
 
 
-### Film enthusiast
+Film enthusiast
 1. As a Film enthusiast, I want to sign up so that I can watch new and unique films, that don't subscribe to the "hollywood" formula
 2. No uploads for film Enthusiasts
 3. As a Film enthusiast, I want to watch what my favorite filmmakers are streaming on the site
@@ -30,7 +30,7 @@ Film Creator
 7. As a film enthusiast, I want to be able to donate to my favorite filmmakers so that i can support their productions.
 
 
-### Advertisers
+Advertiser
 1. As an advertiser, I want to sign up so that i can reach film lovers with my product.
 2. As an advertiser, I want to upload commercials so that i can market my product service
 3. As an advertiser, I want to stream my commercials before films are showcased on the site.
@@ -39,11 +39,11 @@ Film Creator
 6. As an advertiser, I want my Product/services to be discussed in the forums because our target demographic is filmmakers.
 7. As an advertiser, I want to be able to donate to notable film projects, as a means of establishing good public relations.
 
-### Research Methods
+## Research Methods
 
-## Card sort: Whats most important to you, as a Creator?
+### Card sort: Whats most important to you, as a Creator?
 
-###Director/Filmmaker: Wants to produce original films
+### Director/Filmmaker: Wants to produce original films
 
 1. Audience
 2. Money
@@ -79,12 +79,14 @@ Audience: 3
 
 ### Musician
 1. What do you want?
+
 To be a "Feature". The main musical presence for a film or advertisement.
 
 Major source of revenue for musicians is sync-representation. Contracting music for ads and film.
 
 
 2. Major concerns:
+
 Some people end up getting "shut out" of the music industry by way of contracts with Music labels.
 
 Many start off with the inspiration of becoming singers, but when they get signed, the label will require a certain number of top 40 hits within a span of time. If the quota isn't made, the artist will be stuck working for the label, and not able to create music outside of the contract.
