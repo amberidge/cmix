@@ -39,9 +39,9 @@ Advertiser
 6. As an advertiser, I want my Product/services to be discussed in the forums because our target demographic is filmmakers.
 7. As an advertiser, I want to be able to donate to notable film projects, as a means of establishing good public relations.
 
-## Research Methods
+# Research Methods
 
-### Card sort: Whats most important to you, as a Creator?
+## Card sort: Whats most important to you, as a Creator?
 
 ### Director/Filmmaker: Wants to produce original films
 
