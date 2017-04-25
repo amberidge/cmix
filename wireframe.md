@@ -2,4 +2,4 @@
 
 ### Sketch
 
-[Pitch app](...MyThinkLaunch/cmix/pitch_wireframe.jpg)
+![Pitch app](pith_wireframe.jpg)
