@@ -2,4 +2,4 @@
 
 ### Sketch
 
-![Pitch app](pith_wireframe.jpg)
+![Pitch app](pitch_wireframe.jpg)
